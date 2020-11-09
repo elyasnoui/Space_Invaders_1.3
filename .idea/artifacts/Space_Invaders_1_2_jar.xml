@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Space Invaders 1.2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Space_Invaders_1_2_jar</output-path>
+    <root id="archive" name="Space Invaders 1.2.jar">
+      <element id="module-output" name="Space Invaders 1.2" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/CityEngine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
